@@ -1,6 +1,31 @@
-Hi, I'm Abdul Moiz 
+# Hi, I'm Abdul Moiz 
 
-🎓 BS Cyber Security Student at Air University
-🛡️ Cybersecurity | Network Security | Penetration Testing | Digital Forensics
-💻 C++ | Python | Linux
-⚙️ PLC | Industrial Automation | ICS/OT Security
+🎓 **BS Cyber Security Student at Air University, Islamabad**
+
+I'm a Cyber Security student interested in **Network Security, Penetration Testing, Digital Forensics, and Cyber Defense**. I enjoy building practical projects and exploring how systems, networks, and industrial environments can be secured.
+
+### 🛡️ Areas of Interest
+
+* Cyber Security & Network Security
+* Penetration Testing & Ethical Hacking
+* Digital Forensics
+* Cryptography
+* Linux & Computer Networking
+* Industrial Control Systems (ICS/OT) Security
+
+### 💻 Technical Skills
+
+**Programming:** C++, Python, Assembly Language
+**Networking & Security:** Cisco Networking, Network Security, Wireshark, Nmap, Burp Suite, Kali Linux
+**Industrial & Embedded:** PLC, ESP32, Modbus, Factory I/O, Industrial Automation
+**Core Concepts:** Data Structures, Operating Systems, Cryptography
+
+### 🚀 What I'm Working On
+
+Building cybersecurity and networking projects while developing practical skills through university projects, internships, certifications, and hands-on learning.
+
+### 📌 Featured Projects
+
+More projects coming soon — currently organizing and documenting my work on GitHub.
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/abdul-moiz337/)
