@@ -20,6 +20,13 @@ I'm a Cyber Security student interested in **Network Security, Penetration Testi
 **Industrial & Embedded:** PLC, ESP32, Modbus, Factory I/O, Industrial Automation
 **Core Concepts:** Data Structures, Operating Systems, Cryptography
 
+## 🤝 Team Contributions
+
+### Network Intrusion Timeline Detector
+Contributed to a collaborative cybersecurity project focused on network intrusion analysis and threat investigation.
+
+🔗 [View Repository](https://github.com/N-A-I-N-E/Network-Intrusion-Timeline-Detector)
+
 ### 🚀 What I'm Working On
 
 Building cybersecurity and networking projects while developing practical skills through university projects, internships, certifications, and hands-on learning.
