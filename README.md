@@ -15,10 +15,10 @@ I'm a Cyber Security student interested in **Network Security, Penetration Testi
 
 ### 💻 Technical Skills
 
-**Programming:** C++, Python, Assembly Language
-**Networking & Security:** Cisco Networking, Network Security, Wireshark, Nmap, Burp Suite, Kali Linux
-**Industrial & Embedded:** PLC, ESP32, Modbus, Factory I/O, Industrial Automation
-**Core Concepts:** Data Structures, Operating Systems, Cryptography
+* **Programming:** C++, Python, Assembly Language
+* **Networking & Security:** Cisco Networking, Network Security, Wireshark, Nmap, Burp Suite, Kali Linux
+* **Industrial & Embedded:** PLC, ESP32, Modbus, Factory I/O, Industrial Automation
+* **Core Concepts:** Data Structures, Operating Systems, Cryptography
 
 ## 🤝 Team Contributions
 
