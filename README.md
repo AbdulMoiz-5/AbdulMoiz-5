@@ -33,8 +33,8 @@ Building cybersecurity and networking projects while developing practical skills
 
 ### 📌 Featured Projects
 
-NCDA Secure Enterprise Network
-OpenCart Non-Functional Testing
-Intrusion Detection System
-Online Quiz System
+NCDA Secure Enterprise Network.
+OpenCart Non-Functional Testing.
+Intrusion Detection System.
+Online Quiz System.
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/abdul-moiz337/)
