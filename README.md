@@ -23,9 +23,16 @@ I'm a Cyber Security student interested in **Network Security, Penetration Testi
 ## 🤝 Team Contributions
 
 ### Network Intrusion Timeline Detector
-Contributed to a collaborative cybersecurity project focused on network intrusion analysis and threat investigation.
 
-🔗 [View Repository](https://github.com/N-A-I-N-E/Network-Intrusion-Timeline-Detector)
+Contributed to the development of a collaborative cybersecurity project focused on network intrusion analysis and threat investigation, working with team members on selected technical components and implementation.
+
+🔗 [View Team Project](https://github.com/glitcho-o/Network-Intrusion-Timeline-Detector)
+
+### Threat Intelligence Platform
+
+Contributed to the development of a collaborative threat intelligence project as part of a team, participating in technical implementation, problem-solving, and selected project components.
+
+🔗 [View Team Project](https://github.com/glitcho-o/threat-intel-platform)
 
 ### 🚀 What I'm Working On
 
